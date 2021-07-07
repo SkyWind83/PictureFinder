@@ -1,0 +1,2 @@
+rootProject.name = "PictureFinder"
+include ':app'
